@@ -1,4 +1,4 @@
-9# My-first-project
+# My-first-project
 🏥 SmartCare Hospital Analytics System
 
 Project Title
