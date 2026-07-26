@@ -86,7 +86,8 @@ Installation Steps
 
 1. Download or clone the repository.
 
-git clone https://github.com/My-first-project-/SmartCare-Hospital-Analytics.git
+git clone 
+https://github.com/payalkale96k-eng/My-first-project-
 
 2. Open the project in Visual Studio Code.
 
