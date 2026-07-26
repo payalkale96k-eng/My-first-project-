@@ -62,23 +62,23 @@ Development Tools
 System Architecture
 
 User<br/>
-   │
-   ▼
-Web Browser
-   │
-   ▼
-HTML Interface
-   │
-   ├── CSS Styling
-   ├── JavaScript Logic
-   └── Hospital Dashboard
-            │
-            ├── Overview
-            ├── Bed Management
-            ├── Emergency Module
-            ├── Diseases & Treatments
-            ├── Infrastructure
-            └── Analytics
+   │<br/>
+   ▼<br/>
+Web Browser<br/>
+   │<br/>
+   ▼<br/>
+HTML Interface<br/>
+   │<br/>
+   ├── CSS Styling<br/>
+   ├── JavaScript Logic<br/>
+   └── Hospital Dashboard<br/>
+            │<br/>
+            ├── Overview<br/>
+            ├── Bed Management<br/>
+            ├── Emergency Module<br/>
+            ├── Diseases & Treatments<br/>
+            ├── Infrastructure<br/>
+            └── Analytics<br/>
 
 ---
 
