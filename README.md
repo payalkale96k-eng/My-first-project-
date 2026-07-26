@@ -84,20 +84,22 @@ HTML Interface<br/>
 
 Installation Steps
 
-1. Download or clone the repository.
+1. Clone the repository:
 
-git clone 
-https://github.com/payalkale96k-eng/My-first-project-
+git clone https://github.com/payalkale96k-eng/My-first-project-.git
 
-2. Open the project in Visual Studio Code.
+2. Open the project folder:
 
-3. Install the Live Server extension.
+cd My-first-project-
 
-4. Right-click index.html.
+3. Open the project in Visual Studio Code.
 
-5. Select Open with Live Server.
+4. Install the Live Server extension (if not already installed).
 
-6. The dashboard will open automatically in your browser.
+5. Right-click on index.html and select "Open with Live Server".
+
+6. The SmartCare Hospital Analytics System will open in your web browser.
+
 
 ---
 
